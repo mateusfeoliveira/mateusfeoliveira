@@ -38,8 +38,8 @@ src="https://raw.githubusercontent.com/gist/mateusfeoliveira/5bc150c0541ce33f2aa
 
 <div align="left">
 <a href="https://github.com/mateusfeoliveira](https://github.com/mateusfeoliveira">
-<img height="175em"   src="https://github-readme-stats.vercel.app/api?username=mateusfeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfeoliveira&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="175em" width="420"  src="https://github-readme-stats.vercel.app/api?username=mateusfeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="175em" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfeoliveira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <br>
