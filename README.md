@@ -4,11 +4,14 @@ src="https://raw.githubusercontent.com/gist/mateusfeoliveira/5bc150c0541ce33f2aa
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusfeoliveira&blue="  alt="Profile views" /> </p>
 
 - 💻 Sou programador Front-End
+
 - 📘 Atualmente estou estudando JavaScript
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 📫 How to reach me ...
+
+- 🌐 Prático prototipação de site
+
+- ▶️ Tento colaborar com projetos criativos
+
+- 💬 Caso de duvida me chame
 
 <br><br>
 
