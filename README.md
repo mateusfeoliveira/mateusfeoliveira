@@ -3,11 +3,11 @@ src="https://raw.githubusercontent.com/gist/mateusfeoliveira/5bc150c0541ce33f2aa
 <h1 align="left">Oie eu sou Mateus Fernandes, sou programador! </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusfeoliveira&blue="  alt="Profile views" /> </p>
 
-- 💻 Sou programador Front-End
+- 💻 Sou Engenheiro de Dados
 
-- 📘 Atualmente estou estudando JavaScript
+- 📘 Atualmente estou estudando Python
 
-- 🌐 Prático prototipação de site
+- 🌐 Prático criação de dashboard
 
 - ▶️ Tento colaborar com projetos criativos
 
