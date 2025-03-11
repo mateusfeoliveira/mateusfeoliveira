@@ -54,6 +54,6 @@ src="https://raw.githubusercontent.com/gist/mateusfeoliveira/5bc150c0541ce33f2aa
 <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href = "mailto:mateusfeoliveira1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![snake gif](https://github.com/mateusfeoliveira/mateusfeoliveira/blob/output/github-contribution-grid-snake.gif)
   
 </div>
+![snake gif](https://github.com/mateusfeoliveira/mateusfeoliveira/blob/output/github-contribution-grid-snake.gif)
