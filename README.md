@@ -1,4 +1,4 @@
-![alt text](./image/Up_section.svg)
+![alt text](./images/Up_section.svg)
 
 <p align="left">
   I am currently studying Data Engineering and related concepts, with experience in MySQL, Tableau, Power BI, Excel, and MongoDB. Additionally, I have knowledge in Front-End development and am passionate about Python. I work with technologies such as React, TypeScript, JavaScript, CSS, and HTML to build modern, responsive front-end interfaces.
@@ -29,4 +29,4 @@
 </p>
 
 
-![alt text](./image/Lower_section.svg)
+![alt text](./images/Lower_section.svg)
