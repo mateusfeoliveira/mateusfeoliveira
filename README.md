@@ -1,57 +1,34 @@
-<img align="right" height="590em"
-src="https://raw.githubusercontent.com/gist/mateusfeoliveira/5bc150c0541ce33f2aa478f9a421e4d2/raw/f5e99a04828ef9130d8827ff91e3d25a27ba22f2/CardGithub.svg"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusfeoliveira&blue="  alt="Profile views" /> </p>
-<h1 align="left">Oie eu sou Mateus Fernandes, sou programador! </h1>
+![alt text](./image/Up_section.svg)
 
-- 💻 Sou Engenheiro de Dados
+<p align="left">
+  I'm a passionate developer primarily working with Python. I also work with React, TypeScript,
+  JavaScript, CSS, and HTML to build modern, responsive front-end interfaces.
+</p>
 
-- 📘 Atualmente estou estudando Python
+<p align="left">
+  In my free time, I spend a lot of time on exercises that help me develop my problem-solving logic and
+  grow my perspective. Whether it's working on CodeWars or other platforms, I love challenging myself to
+  solve problems and continuously improve my skills.
+</p>
 
-- 🌐 Prático criação de dashboard
+---
 
-- ▶️ Tento colaborar com projetos criativos
+## ❔ Interesting facts
 
-- 💬 Caso de duvida me chame
+- I am eager to collaborate on projects that utilize Python.
+- I am currently enhancing my skills in JavaScript and deepening my understanding of the mathematics fundamental to Machine Learning and Data Science.
+- In my spare time, I enjoy playing chess and studying photography.
+- I love to hear classical music.
 
-<br><br>
 
-## Linguagens de Programação
+## ☕ Let's Connect
 
-<div style="display: inline_block">
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mateus-fernandes-de-oliveira/" target="_blank"><img src="https://img.icons8.com/clouds/100/linkedin.png" target="_blank"></a>
+  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.icons8.com/clouds/100/discord.png" target="_blank"></a>
+  <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcRwPxGLmPglpqRRtLTNqHWgBfSMHPTwHTkxVVsKcRjKwrbxNqlSGnRrcRDZxdfvThTkncRpn" target="_blank"><img src="https://img.icons8.com/clouds/100/gmail.png" target="_blank"></a>
+  <a href="https://github.com/mateusfeoliveira" target="_blank"><img src="https://img.icons8.com/clouds/100/github.png" target="_blank"></a>
+</p>
 
-<img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Mateus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="Mateus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Mateus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-</div>
-
-<br>
-
-## Analises do GitHub
-
-<br>
-
-<div align="left">
-<a href="https://github.com/mateusfeoliveira](https://github.com/mateusfeoliveira">
-<img height="175em" width="420"  src="https://github-readme-stats.vercel.app/api?username=mateusfeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="175em" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfeoliveira&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<br>
-
-## Redes Sociais
-
-<br>
-
-<div>
-<a href="https://www.linkedin.com/in/mateus-fernandes-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/mateusfeoliveira_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	
-<a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href = "mailto:mateusfeoliveira1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-</div>
+![alt text](./image/Lower_section.svg)
