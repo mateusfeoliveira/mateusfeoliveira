@@ -28,5 +28,4 @@
   <a href="https://github.com/mateusfeoliveira" target="_blank"><img src="https://img.icons8.com/clouds/95/github.png" target="_blank"></a>
 </p>
 
-
 ![alt text](./images/Lower_section.svg)
