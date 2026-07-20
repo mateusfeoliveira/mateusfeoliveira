@@ -9,12 +9,15 @@
 </p>
 
 
-## ❔ Interesting facts
+## 🐍 Contributions
 
-- I am eager to collaborate on projects that utilize Python.
-- I am currently enhancing my skills in JavaScript and deepening my understanding of the mathematics fundamental to Machine Learning and Data Science.
-- In my spare time, I enjoy playing chess and studying photography.
-- I love to hear classical music.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusfeoliveira/mateusfeoliveira/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusfeoliveira/mateusfeoliveira/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mateusfeoliveira/mateusfeoliveira/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 
 ## ☕ Let's Connect
