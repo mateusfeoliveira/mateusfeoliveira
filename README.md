@@ -1,13 +1,5 @@
 ![alt text](./images/Up_section.svg)
 
-<p align="left">
-  I am currently studying Data Engineering and related concepts, with experience in MySQL, Tableau, Power BI, Excel, and MongoDB. Additionally, I have knowledge in Front-End development and am passionate about Python. I work with technologies such as React, TypeScript, JavaScript, CSS, and HTML to build modern, responsive front-end interfaces.
-</p>
-
-<p align="left">
-  In my free time, I focus on exercises that help develop my problem-solving logic and broaden my perspective. Whether it's solving challenges on platforms like CodeWars or others, I enjoy pushing myself to tackle problems and continuously enhance my skills.
-</p>
-
 ## 🖥️ Who am I
 
 <!-- animated ASCII portrait + neofetch-style info card. To regenerate
@@ -15,6 +7,14 @@
      CONFIG section in scripts/make_info_card.py, run:
        python scripts/make_ascii_svg.py images/profile-source.jpg mateus-ascii.svg --cols 90
        python scripts/make_info_card.py mateus-info-card.svg -->
+
+<p align="left">
+  I am currently studying Data Engineering and related concepts, with experience in MySQL, Tableau, Power BI, Excel, and MongoDB. Additionally, I have knowledge in Front-End development and am passionate about Python. I work with technologies such as React, TypeScript, JavaScript, CSS, and HTML to build modern, responsive front-end interfaces.
+</p>
+
+<p align="left">
+  In my free time, I focus on exercises that help develop my problem-solving logic and broaden my perspective. Whether it's solving challenges on platforms like CodeWars or others, I enjoy pushing myself to tackle problems and continuously enhance my skills.
+</p>
 
 <h3><code>mateusfeoliveira@github ~ $ whoami</code></h3>
 
