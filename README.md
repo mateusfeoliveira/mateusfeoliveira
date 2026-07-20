@@ -15,6 +15,23 @@
 
 <img src="./contrib-heatmap.svg" width="860" alt="Mateus's GitHub contribution graph — auto-refreshed daily" />
 
+## 🖥️ whoami
+
+<!-- animated ASCII portrait + neofetch-style info card. To regenerate
+     after swapping images/profile-source.jpg, or after editing the
+     CONFIG section in scripts/make_info_card.py, run:
+       python scripts/make_ascii_svg.py images/profile-source.jpg mateus-ascii.svg --cols 90
+       python scripts/make_info_card.py mateus-info-card.svg -->
+
+<h3><code>mateusfeoliveira@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./mateus-ascii.svg" width="360" alt="Mateus - ASCII portrait" /></td>
+<td valign="top"><img src="./mateus-info-card.svg" width="480" alt="Mateus - experience, stack, highlights" /></td>
+</tr>
+</table>
+
 ## ☕ Let's Connect
 
 <p align="center">
