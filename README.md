@@ -9,16 +9,11 @@
 </p>
 
 
-## 🐍 Contributions
+## 🖥️ Contributions
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusfeoliveira/mateusfeoliveira/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusfeoliveira/mateusfeoliveira/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/mateusfeoliveira/mateusfeoliveira/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+<h3><code>mateusfeoliveira@github ~ $ ./contributions.sh</code></h3>
 
+<img src="./contrib-heatmap.svg" width="860" alt="Mateus's GitHub contribution graph — auto-refreshed daily" />
 
 ## ☕ Let's Connect
 
