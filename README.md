@@ -8,14 +8,7 @@
   In my free time, I focus on exercises that help develop my problem-solving logic and broaden my perspective. Whether it's solving challenges on platforms like CodeWars or others, I enjoy pushing myself to tackle problems and continuously enhance my skills.
 </p>
 
-
-## 🖥️ Contributions
-
-<h3><code>mateusfeoliveira@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Mateus's GitHub contribution graph — auto-refreshed daily" />
-
-## 🖥️ whoami
+## 🖥️ Who am I
 
 <!-- animated ASCII portrait + neofetch-style info card. To regenerate
      after swapping images/profile-source.jpg, or after editing the
@@ -31,6 +24,12 @@
 <td valign="top"><img src="./mateus-info-card.svg" width="480" alt="Mateus - experience, stack, highlights" /></td>
 </tr>
 </table>
+
+## 🖥️ Contributions
+
+<h3><code>mateusfeoliveira@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Mateus's GitHub contribution graph — auto-refreshed daily" />
 
 ## ☕ Let's Connect
 
