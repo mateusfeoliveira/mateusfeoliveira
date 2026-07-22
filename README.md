@@ -34,12 +34,12 @@
 ## ☕ Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mateus-fernandes-de-oliveira/" target="_blank"><img src="https://img.icons8.com/clouds/95/linkedin.png" target="_blank"></a>
-  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.icons8.com/clouds/95/discord.png" target="_blank"></a>
-  <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcRwPxGLmPglpqRRtLTNqHWgBfSMHPTwHTkxVVsKcRjKwrbxNqlSGnRrcRDZxdfvThTkncRpn" target="_blank"><img src="https://img.icons8.com/clouds/95/gmail.png" target="_blank"></a>
-  <a href="https://www.figma.com/team_invite/redeem/bB4hwL7DZUgG69uyCZBa1e" target="_blank"><img src="https://img.icons8.com/clouds/95/figma.png" target="_blank"></a>
-  <a href="https://www.notion.so/Introdu-o-e-links-1b354f6866b680c29b1bc64068b842f7" target="_blank"><img src="https://img.icons8.com/clouds/95/notion.png" target="_blank"></a>
-  <a href="https://github.com/mateusfeoliveira" target="_blank"><img src="https://img.icons8.com/clouds/95/github.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mateus-fernandes-de-oliveira/" target="_blank"><img src="./images/icon-linkedin.png" target="_blank"></a>
+  <a href="https://discord.com/channels/@me" target="_blank"><img src="./images/icon-discord.png" target="_blank"></a>
+  <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcRwPxGLmPglpqRRtLTNqHWgBfSMHPTwHTkxVVsKcRjKwrbxNqlSGnRrcRDZxdfvThTkncRpn" target="_blank"><img src="./images/icon-gmail.png" target="_blank"></a>
+  <a href="https://www.figma.com/team_invite/redeem/bB4hwL7DZUgG69uyCZBa1e" target="_blank"><img src="./images/icon-figma.png" target="_blank"></a>
+  <a href="https://www.notion.so/Introdu-o-e-links-1b354f6866b680c29b1bc64068b842f7" target="_blank"><img src="./images/icon-notion.png" target="_blank"></a>
+  <a href="https://github.com/mateusfeoliveira" target="_blank"><img src="./images/icon-github.png" target="_blank"></a>
 </p>
 
 ![alt text](./images/Lower_section.svg)
