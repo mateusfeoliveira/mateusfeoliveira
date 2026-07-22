@@ -29,10 +29,10 @@ LABEL_ROW_H = 16
 # GitHub's own contribution-level colors (dark theme)
 LEVEL_COLORS = {
     "0": "#161b22",
-    "1": "#0e4429",
-    "2": "#006d32",
-    "3": "#26a641",
-    "4": "#39d353",
+    "1": "#0d2b4e",
+    "2": "#0a4a8f",
+    "3": "#1f6feb",
+    "4": "#58a6ff",
 }
 
 MONTHS = [
